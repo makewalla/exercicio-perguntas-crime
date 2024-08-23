@@ -1,2 +1,5 @@
 p1 = input("telefonou para vitima?" )
 p2 = input("este no local do crime? ")
+p3 = input("mora perto da vitima? ")
+p4 = input("devia para vitima ?")
+p5 = input("ja trabalhou com a vitima? ")
